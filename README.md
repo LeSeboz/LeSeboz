@@ -1,5 +1,5 @@
 - Hi, I’m @LeSeboz 👋
-- Tech, music and videogames lover. 👨‍💻🎶🎮
+- Tech, music and videogame lover. 👨‍💻🎶🎮
 - ⚙️ Software Engineering student. 
 
 <!---
